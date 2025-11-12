@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Word Guessing Game Banner" width="800"/>
-</p>
-
 <h1 align="center">🎀Word Guessing Game 💖</h1>
 <p align="center">A cute, pink-themed word guessing game built with Python and Tkinter 🌷</p>
 
